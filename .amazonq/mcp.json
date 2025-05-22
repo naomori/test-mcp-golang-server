@@ -3,7 +3,7 @@
   "mcpServers": {
     "mcp_golang": {
       "description": "Test MCP-Golang Server",
-      "command": "/Users/naomon/github/test-mcp-golang-server/test-mcp-golang-server"
+      "command": "/home/ubuntu/test-mcp-golang-server/test-mcp-golang-server"
     }
   }
 }
